@@ -1,17 +1,26 @@
-👋 Hi, I’m @rohith-94
+## 👋 Hi, I’m [Rohith!](https://github.com/rohith-94)
 
-👨‍💻 Currently working as a Data Engineer-Intermediate at ICBC. I hold a Masters in Big Data from Simon Fraser University (SFU).
+<center>
+<a href="https://www.linkedin.com/in/rohith-sooram/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+</center>
 
-👀 I’m interested in Data Engineering and passionate about developing efficient data solutions.
+## 👨🏻‍🎓 Work experience:
+**Data Engineering**: DE-Intermediate at [ICBC](https://www.icbc.com) (5 Years)
+
+## 👨🏻‍🎓 Academic experience:
+**Master's in Professional Computer Science**: Big Data at [Simon Fraser University](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/about-the-program/big-data.html)
+
+## 💼 Technical Skills: 
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-F2C811?style=flat&logo=sql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 🌱 I’m currently learning AWS and Azure data engineering solutions to enhance my skills in cloud-based data platforms.
-
-💼 Skills: 
-- Apache Spark
-- Python
-- SQL
-- Hive
-- Azure Databricks
 
 💞️ I’m looking to collaborate on innovative data projects, particularly those involving cloud technologies and big data analytics.
 
@@ -19,7 +28,7 @@
 
 😄 Pronouns: He/him
 
-⚡ Fun fact: I love playing table tennis and am keen on investing.
+⚡ Fun fact: I love playing table tennis.
 
 <!---
 rohith-94/rohith-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
