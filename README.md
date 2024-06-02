@@ -7,7 +7,8 @@
 </center>
 
 ## 👨🏻‍🎓 Work experience:
-**Data Engineering**: DE-Intermediate at [ICBC](https://www.icbc.com) (5 Years)
+**Data Engineering**: DE-Intermediate at [ICBC](https://www.icbc.com) (5+ Years)
+**Systems Engineer**: Data Quality at [TCS](https://www.tcs.com/) (2 Years)
 
 ## 👨🏻‍🎓 Academic experience:
 **Master's in Professional Computer Science - Big Data** at [Simon Fraser University](https://www.sfu.ca/computing/current-students/graduate-students/academic-programs/professional-master-of-science-in-computer-science/about-the-program/big-data.html)
