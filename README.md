@@ -7,7 +7,7 @@
 </center>
 
 ## 👨🏻‍🎓 Work experience:
-**Data Engineering**: Data Engineer-Intermediate at [ICBC](https://www.icbc.com) (5+ Years)
+**Data Engineering**: Data Engineer-Intermediate at [ICBC](https://www.icbc.com) (7+ Years)
 
 **Systems Engineer**: Data Quality at [TCS](https://www.tcs.com/) (2 Years)
 
